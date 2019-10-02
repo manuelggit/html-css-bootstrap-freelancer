@@ -1,35 +1,35 @@
-a {
+/* NAVBAR */
+
+#navigazione {
+  background: #2c3e50;
   color: #ffffff;
 }
 
-.navbar {
-  background: #2c3e50;
-  border-radius: 0px;
+.menu {
+  display: none;
 }
 
-.brand-logo {
-  font-size: 2em;;
-  text-decoration: none;
+.logo a {
+  color: #ffffff;
 }
 
-.main-nav {
-  list-style-type: none;
-  float: right;
-}
+/* HEADER */
 
-.header {
+#intro {
   background: #1abc9c;
 }
 
-.row {
-  width: 100%;
-}
-
-.avatar {
+h1{
   text-align: center;
+  color: #ffffff;
 }
 
-h1 {
-  font-size: 5em;
+.divisore {
+  height: 2px;
+  background: #ffffff;
+}
+
+.sotto-divisore-header {
+  color: #ffffff;
   text-align: center;
 }
